@@ -42,7 +42,7 @@ class _DiceRollerState extends State<DiceRoller> {
               fontSize: 28,
             ),
           ),
-          child: const Text('Roll Dice'),
+          child: const Text('Change Image'),
         )
       ],
     );
